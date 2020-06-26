@@ -22,3 +22,5 @@ To run this project, clone this repository and run the trial.py file using comma
 
 Model Weights have already been saved, so you don't need to train your model again.
 
+If you like this repository, don't forget to give me a star.
+
